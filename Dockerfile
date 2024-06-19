@@ -19,7 +19,8 @@ ADD site /site
 EXPOSE 1313
 
 # COMMAND
-#CMD ["hugo", "server", "--bind", "0.0.0.0", "--port", "1313" "--cleanDestinationDir", "--forceSyncStatic", "--buildDrafts", "--meminterval=1h", "--memstats=/dev/stdout", "--source", "/site", "--config", "/site/config.toml"]
-CMD hugo server \
-    --source /site \
-    --config /site/config.toml
+CMD hugo \
+    --source="/site" \
+    --config="/site/config.toml" \
+    --baseURL=$BASEURL \
+    --watch
