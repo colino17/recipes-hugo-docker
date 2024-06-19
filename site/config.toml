@@ -1,4 +1,4 @@
-baseURL = '$BASEURL'
+baseURL = 'https://eat.beanpod.casa'
 languageCode = 'en-us'
 title = 'Recipes'
 theme = 'summer-qremix'
