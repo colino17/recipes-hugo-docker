@@ -19,4 +19,4 @@ ADD site /site
 EXPOSE 1313
 
 # COMMAND
-CMD hugo --watch --source "/site" config "/site/config.toml" --baseURL="$BASEURL" 
+CMD hugo --watch --source "/site" --config "/site/config.toml" --baseURL="$BASEURL" 
