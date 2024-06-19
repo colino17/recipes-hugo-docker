@@ -2,8 +2,7 @@ FROM alpine:latest
 MAINTAINER colino17
 
 # ENVIRONMENT
-ENV
-ENV
+ENV BASEURL=
 
 # INSTALL BASICS
 RUN apk update
