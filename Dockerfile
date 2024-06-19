@@ -15,9 +15,6 @@ RUN apk add --no-cache --repository=https://dl-cdn.alpinelinux.org/alpine/edge/c
 # DIRECTORIES
 ADD site /site
 
-# VOLUMES
-VOLUME /site/content/recipe
-
 # PORTS
 EXPOSE 1313
 
