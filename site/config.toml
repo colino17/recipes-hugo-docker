@@ -1,0 +1,14 @@
+baseURL = '$BASEURL'
+languageCode = 'en-us'
+title = 'Recipes'
+theme = 'summer-qremix'
+[params]
+  color= '#8fce00'
+  font= 'Preahvihear'
+  resources= []
+  logo_image= 'logo.svg'
+  favicon_image= 'favicon.png'
+[markup]
+  [goldmark]
+    [renderer]
+      unsafe= true
