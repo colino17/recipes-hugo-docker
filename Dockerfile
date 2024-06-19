@@ -22,5 +22,5 @@ EXPOSE 1313
 CMD hugo \
     --source="/site" \
     --config="/site/config.toml" \
-    --baseURL=$BASEURL \
+    --baseURL="$BASEURL" \
     --watch
