@@ -2,7 +2,7 @@ FROM alpine:latest
 MAINTAINER colino17
 
 # ENVIRONMENT
-ENV BASEURL=
+ENV BASEURL="https://recipes.example.com"
 
 # INSTALL BASICS
 RUN apk update
@@ -19,4 +19,4 @@ ADD site /site
 EXPOSE 1313
 
 # COMMAND
-CMD hugo --watch --source "/site" --config "/site/config.toml" --baseURL="$BASEURL" 
+CMD hugo --watch --source "/site" --config "/site/config.toml" --baseURL "$BASEURL"
