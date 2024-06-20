@@ -1,5 +1,5 @@
 languageCode = 'en-us'
-title = 'Recipes'
+#title = 'nibble & nosh'
 theme = 'summer-qremix'
 [params]
   color= '#8fce00'
