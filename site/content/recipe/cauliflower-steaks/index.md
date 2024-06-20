@@ -1,50 +1,43 @@
 ---
-title: Cauliflower steaks with roasted red pepper & olive salsa
-ref: cauliflower-steaks
+title: Ranch Chicken
+ref: ranch-chicken
 image: true
-time: 30
-category: lunch
+time: 45
+category: dinner
 tags:
-  - vegan
-  - vegetarian
-  - quick
+  - chicken
 ingredients:
-  - name: cauliflower
-    amount: 1
-    unit: null
-  - name: smoked paprika
-    amount: ½
-    unit: tsp
-  - name: olive oil
-    amount: 2
-    unit: tbsp
-  - name: roasted red pepper
-    amount: 1
-    unit: null
-  - name: black olives, pitted
+  - name: Chicken Breasts
     amount: 4
     unit: null
-  - name: parsley
-    amount: small
-    unit: handful
-  - name: capers
+  - name: Garlic Powder
     amount: 1
-    unit: tsp
-  - name: red wine vinegar
-    amount: ½
     unit: tbsp
-  - name: toasted flaked almonds
+  - name: Olive Oil
     amount: 2
     unit: tbsp
-sample_field: ./images/cauliflower-steaks-large.jpeg
-side_image: ./images/cauliflower-steaks-large.jpeg
+  - name: Butter
+    amount: 3
+    unit: tbsp
+  - name: Flour
+    amount: 2
+    unit: tbsp
+  - name: Chicken Broth
+    amount: 1 ½
+    unit: cup
+  - name: Ranch Seasoning
+    amount: 1
+    unit: package
+  - name: Black Pepper
+    amount: ½
+    unit: tsp
+side_image: ./images/ranch-chicken.jpeg
 ---
-
-Unlock the flavours of cauliflower with a red pepper, olive and caper salsa, topped with almonds. Healthy and vegan, it makes a tasty light lunch or supper.
-
-1. Heat oven to 220C/200C fan/gas 7 and line a baking tray with baking parchment. Slice the cauliflower into two 1-inch steaks – use the middle part as it’s larger, and save the rest for another time. Rub the paprika and 1⁄2 tbsp oil over the steaks and season. Put on the tray and roast for 15-20 mins until cooked through.
-2. Meanwhile, make the salsa. Chop the pepper, olives, parsley and capers, and put into a bowl and mix with the remaining oil and vinegar. Season to taste. When the steaks are cooked, spoon over the salsa and top with flaked almonds to serve.
-
----
-
-_From [BBC Good Food](https://www.bbcgoodfood.com/recipes/cauliflower-steaks-roasted-red-pepper-olive-salsa)._
+1. Cut the chicken lengthwise so you get thinner cutlets, and season each with pepper and garlic powder.
+2. Add the olive oil and 1 tablespoon of the butter to a skillet over medium/high heat.
+3. Add the chicken to the pan and cook for about 4-5 minutes/side until golden then remove from pan.
+4. Reduce the heat to medium. Add the remaining butter to the skillet, and once it's melted, stir in the flour and cook for about a minute.
+5. Add broth and whisk until flour has dissolved.
+6. Whisk in ranch seasoning.
+7. Return the chicken to the skillet and cook for another 5 minutes or until it has finished cooking through and the sauce has thickened.
+8. Serve with a side of veggies.
