@@ -3,6 +3,7 @@ MAINTAINER colino17
 
 # ENVIRONMENT
 ENV BASEURL="https://recipes.example.com"
+ENV SITE_TITLE="Recipes"
 
 # INSTALL BASICS
 RUN apk update
@@ -19,4 +20,4 @@ ADD site /site
 EXPOSE 1313
 
 # COMMAND
-CMD hugo --watch --source "/site" --config "/site/config.toml" --baseURL "$BASEURL"
+CMD env HUGO_TITLE="$SITE_TITLE" hugo --watch --source "/site" --config "/site/config.toml" --baseURL "$BASEURL"
