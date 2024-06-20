@@ -6,7 +6,7 @@ Below is an example docker compose stack for this container as well as a lightwe
 
 - The BASEURL environment variable should be modified to the domain you wish to access the site from. The same modifications must be made to the URL in the Traefik labels.
 - The SITE_TITLE environment variable can be modified to add custom text to the top of the site. By default, without setting this variable, this will just read "Recipes".
-- Volume paths should be modified to suit your needs. The content volume path can be excluded entirely to use the included recipes. For custom recipes you will need to fork and modify the repo, or populate the content volume path with your own data.
+- Volume paths should be modified to suit your needs. The content volume path can be excluded entirely to use the included recipes. For custom recipes you will either need to fork and modify the repo, or use a custom content volume path and populate it with your own data.
 - The networks should be modified to whatever docker network your Traefik instance is on. The docker labels also need to be modified to match.
 
 ```yaml
