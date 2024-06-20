@@ -42,7 +42,7 @@ ingredients:
     amount: 1
     unit: tbsp
   - name: Parmesan
-    amount: 3/4
+    amount: ¾
     unit: cup
 side_image: ./images/garlic-parmesan-chicken-bake.jpg
 ---
