@@ -1,8 +1,7 @@
-# recipes-hugo-docker
-A recipes site backed by hugo and markdown and deployable in docker
+# Recipes
+A recipe site using [HUGO](https://gohugo.io/) and a modified version of the [SummerQRemix theme](https://github.com/mipmip/summer-qremix). This container is used to generate and update the site, and along with the Docker Compose example below, can be deployed with a [Lighttpd Webserver](https://www.lighttpd.net) and a [Traefik Reverse Proxy](https://traefik.io/traefik/).
 
 # Docker Compose Stack
-
 Below is an example docker compose stack for this container as well as a lightweight webserver with Traefik labels for reverse proxying. The key items to modify are as follows:
 
 - The BASEURL environment variable should be modified to the domain you wish to access the site from. The same modifications must be made to the URL in the Traefik labels.
@@ -22,13 +21,13 @@ Below is an example docker compose stack for this container as well as a lightwe
       - /path/to/recipe/content:/site/content/recipe
       - /path/to/generated/site:/site/public
   recipes_web:
-    container_name: recipes_web
-    volumes:
-      - /path/to/generated/site:/var/www/html:ro
     image: rtsp/lighttpd:latest
+    container_name: recipes_web
     restart: always
     networks:
       - proxy
+    volumes:
+      - /path/to/generated/site:/var/www/html:ro
     labels:
       - "traefik.enable=true"
       - "traefik.http.routers.recipes.entrypoints=http"
