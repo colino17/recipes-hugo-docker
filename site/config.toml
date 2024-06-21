@@ -2,7 +2,7 @@ languageCode = 'en-us'
 #title = 'nibble & nosh'
 theme = 'summer-qremix'
 [params]
-  color= '#8fce00'
+  color= '#ffda03'
   font= 'Preahvihear'
   resources= []
   logo_image= 'logo.svg'
