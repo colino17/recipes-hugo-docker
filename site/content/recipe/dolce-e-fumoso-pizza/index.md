@@ -7,10 +7,10 @@ category: dinner
 tags:
   - italian
 ingredients:
-  - name: "[Pizza Dough](../pizza-dough)"
+  - name: Pizza Dough
     amount: 1
     unit: null
-  - name: "[White Pizza Sauce](../white-pizza-sauce)"
+  - name: White Pizza Sauce
     amount: 1
     unit: cup
   - name: Honey
