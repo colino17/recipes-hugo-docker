@@ -1,5 +1,5 @@
 ---
-title: Orange
+title: Orange Chicken
 ref: orange-chicken
 image: true
 time: 180
