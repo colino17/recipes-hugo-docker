@@ -14,6 +14,7 @@ tags:
   - low-carb
   - pressure-cooker
   - slow-cooker
+  - air-fryer
 ingredients:
   - name: 
     amount: 
