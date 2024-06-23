@@ -7,7 +7,7 @@ category: dinner
 tags:
   - italian
 ingredients:
-  - name: "[Pizza Dough](../pizza-dough/index.md)"
+  - name: "[Pizza Dough](../pizza-dough)"
     amount: 1
     unit: null
   - name: "[White Pizza Sauce](../white-pizza-sauce)"
