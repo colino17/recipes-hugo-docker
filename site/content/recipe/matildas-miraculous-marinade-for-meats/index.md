@@ -5,16 +5,7 @@ image: true
 time: 5
 category: dinner
 tags:
-  - asian
-  - italian
-  - mexican
   - chicken
-  - pork
-  - beef
-  - low-carb
-  - pressure-cooker
-  - slow-cooker
-  - air-fryer
 ingredients:
   - name: Vegetable Oil
     amount: 2⁄3
