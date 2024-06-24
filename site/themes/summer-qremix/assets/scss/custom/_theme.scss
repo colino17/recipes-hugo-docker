@@ -154,7 +154,7 @@
 
   > ol {
     margin: 0;
-    padding-left: 2rem;
+    padding-left: 3rem;
     list-style: none;
 
     &::after {
@@ -176,7 +176,7 @@
 
         position: absolute;
         top: 0;
-        left: -2rem;
+        left: -3rem;
         color: palette(gray, darker);
         line-height: 1.25;
         content: counter(steps);
