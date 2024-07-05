@@ -40,7 +40,7 @@ ingredients:
   - name: Black Pepper
     amount: 1
     unit: tsp
-side_image: ./images/baked-honey-mustard-chicken.jpeg
+side_image: ./images/baked-honey-mustard-chicken.jpg
 ---
 1. Preheat oven to 400F. 
 2. Lightly grease a baking dish.
