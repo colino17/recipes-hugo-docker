@@ -1,9 +1,9 @@
 ---
-title: Recipe Name
+title: Garlic Butter Chicken Bites with Lemon Asparagus
 ref: garlic-butter-chicken-bites-with-lemon-asparagus
 image: true
-time: 30
-category: snacks (OR breakfast OR lunch OR dinner)
+time: 45
+category: dinner
 tags:
   - chicken
   - low-carb
