@@ -2,7 +2,7 @@
 title: Chicken Roulade
 ref: chicken-roulade
 image: true
-time: 90
+time: 40
 category: dinner
 tags:
   - chicken
