@@ -43,6 +43,6 @@ side_image: ./images/chicken-roulade.jpg
 4. Season both sides with salt, pepper, and garlic powder.
 5. Evenly distribute the cheese and bacon over the middle of the chicken and then roll the chicken up neatly and seal with a toothpick.
 6. Sear all sides of the chicken rolls in the bacon drippings until golden brown.
-7. Transfer to a lightly greased baking dish seam-side-down and sprinkle with italian seasoning and paprika.
+7. Transfer to a lightly greased baking dish seam-side-down and sprinkle with italian seasoning and paprika and add grated parmesan.
 8. Cover and bake for 17 minutes. Remove cover and bake for 8 more minutes.
 9. Serve with veggies or rice.
