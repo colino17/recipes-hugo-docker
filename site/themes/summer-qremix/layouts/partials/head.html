@@ -20,7 +20,7 @@
   </title>
 
   {{ $scss := resources.Get "scss/styles.scss" }}
-  {{ $style := $scss | resources.ToCSS }}
+  {{ $style := $scss | resources.Sass }}
 
   <link rel="stylesheet" href="{{$style.Permalink}}">
 
