@@ -49,13 +49,13 @@ ingredients:
     unit: tbsp
 side_image: ./images/chicken-shawarma.jpg
 ---
-1. Remove excess fat from highs and place flat on a cutting board.
+1. Remove excess fat from thighs and place flat on a cutting board.
 2. Cover with parchment paper and use a meat tenderizer to flatten until it has a consistent thickness.
 3. Combine olive oil, lemon juice, garlic, spices, and sugar in a large bowl.
 4. Add chicken and toss until all surfaces are covered.
 5. Marinate in the fridge for up to 24 hours.
 6. Heat olive oil in a large skillet at medium-high.
-7. Lay thighs into the skillet flat and cook without turning for 8 minutes.
+7. Lay thighs into the skillet and cook without turning for 8 minutes.
 8. Flip the thighs and let cook for an additional 3-4 minutes.
 9. Remove and let rest on a cutting board while preparing the pitas/tortillas.
 10. Cover the pita or tortilla with a thin layer of toum.
